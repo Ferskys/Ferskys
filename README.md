@@ -31,7 +31,7 @@
 ### Here we have my progress at École 42 São Paulo 
 * Click to see the development of my projects so far!
 <a href="https://github.com/Ferskys/libft" target="_blank">
-<img src="./images/libfte.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
+<img src="./libfte.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
 
 <picture>
