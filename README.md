@@ -25,6 +25,12 @@ I am currently on a journey in technology. My professional path is marked by a q
   <a href="https://www.linkedin.com/in/fernandasuominsky" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### Here we have my progress at École 42 São Paulo 
+* Click to see the development of my projects so far!
+<a href="https://github.com/Ferskys/libft" target="_blank">
+<img src="./images/libfte.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferskys/Ferskys/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferskys/Ferskys/output/github-contribution-grid-snake.svg">
