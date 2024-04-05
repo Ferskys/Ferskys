@@ -16,7 +16,7 @@
   <img align="center" alt="Ferskys-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ferskys-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<br>
 <p align="center"> I am currently on a journey in technology. My professional path is marked by a quest for knowledge, integrating my passion for education with a journey in the technological universe. </p>
 
 <div align="center">
