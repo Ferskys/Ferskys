@@ -1,8 +1,10 @@
 #  Hello Everyone ♒
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&random=false&width=435&lines=I'm+Fernanda+Suominsky)](https://git.io/typing-svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ferskys&show_icons=true&locale=en&theme=cobalt&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferskys&layout=compact&theme=cobalt)
-##
+
+<div style="display: flex; justify-content: space-around; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ferskys&show_icons=true&locale=en&theme=cobalt&rank_icon=github" alt="GitHub Stats" style="flex: 1; max-width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferskys&layout=compact&theme=cobalt" alt="Top Langs" style="flex: 1; max-width: 49%;">
+</div>
 
 <h3 align="center"> 🔬 Chemistry | 🤖 Tech Educator | 👩‍💻 Software Engineer </h3>
 
